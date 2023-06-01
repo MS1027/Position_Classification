@@ -1,0 +1,324 @@
+Player,Player.1,Assists,KeyP,AvgP,PS%,Crosses,LongB,ThrB,Rating,Apps,Mins
+"1Khvicha KvaratskheliaNapoli, 22, AM(CLR)","Khvicha Kvaratskhelia Napoli, 22, AM(CLR)",10,1.8,27.2,82.5,0.5,1.2,0.3,7.63,23(1),1833.0
+"2Victor OsimhenNapoli, 24, FW","Victor Osimhen Napoli, 24, FW",4,1.0,11.7,71.0,-,0.3,-,7.6,22(1),1916.0
+"3Paulo DybalaRoma, 29, AM(CR),FW","Paulo Dybala Roma, 29, AM(CR),FW",6,2.3,29.7,81.9,1.6,2.4,0.1,7.37,19(2),1533.0
+"4Armand LaurientéSassuolo, 24, AM(LR),FW","Armand Laurienté Sassuolo, 24, AM(LR),FW",6,2.7,26.3,80.8,0.8,0.5,0.1,7.32,21,1741.0
+"5Sergej Milinkovic-SavicLazio, 28, AM(C)","Sergej Milinkovic-Savic Lazio, 28, AM(C)",8,1.4,54.0,76.4,0.2,2.5,0.2,7.29,25(1),2196.0
+"6Adrien RabiotJuventus, 28, DMC,M(L)","Adrien Rabiot Juventus, 28, DMC,M(L)",3,1.0,33.5,83.1,0.1,1.5,0.1,7.2,22(1),1941.0
+"7Mattia ZaccagniLazio, 27, AM(CL),FW","Mattia Zaccagni Lazio, 27, AM(CL),FW",4,0.8,26.8,84.0,0.1,0.4,-,7.2,24(1),1991.0
+"8Lucas MartínezFiorentina, 26, D(C)","Lucas Martínez Fiorentina, 26, D(C)",1,0.3,53.7,81.3,-,6.4,-,7.16,18(2),1587.0
+"9Rafael LeãoAC Milan, 23, AM(CL),FW","Rafael Leão AC Milan, 23, AM(CL),FW",6,1.4,20.7,74.5,0.5,1.6,0.1,7.15,22(4),1925.0
+"10Lautaro MartínezInter, 25, FW","Lautaro Martínez Inter, 25, FW",3,1.3,19.5,75.0,-,0.7,0.1,7.14,24(4),2163.0
+"11Mário RuiNapoli, 31, D(L),M(L)","Mário Rui Napoli, 31, D(L),M(L)",6,2.2,65.2,83.9,1.6,5.2,0.1,7.11,19(1),1596.0
+"12Lorenzo PellegriniRoma, 26, M(CL)","Lorenzo Pellegrini Roma, 26, M(CL)",5,2.3,32.2,81.2,1.5,1.8,0.1,7.11,23,1933.0
+"13Kim Min-JaeNapoli, 26, D(C)","Kim Min-Jae Napoli, 26, D(C)",1,0.3,78.1,90.5,-,3.5,-,7.09,27,2363.0
+"14André-Frank Zambo AnguissaNapoli, 27, M(C)","André-Frank Zambo Anguissa Napoli, 27, M(C)",4,1.0,59.4,88.9,-,1.7,-,7.08,26,2199.0
+"15Gerard DeulofeuUdinese, 29, AM(CLR),FW","Gerard Deulofeu Udinese, 29, AM(CLR),FW",6,3.0,32.0,80.5,1.2,0.6,-,7.06,15(1),1219.0
+"16Hakan ÇalhanogluInter, 29, M(CLR),FW","Hakan Çalhanoglu Inter, 29, M(CLR),FW",5,2.2,45.3,87.9,2.1,3.1,0.1,7.05,23(3),1934.0
+"17DaniloJuventus, 31, D(CLR),DMC","Danilo Juventus, 31, D(CLR),DMC",3,0.6,54.5,83.8,0.1,4.0,0.1,7.04,27(1),2442.0
+"18Giovanni Di LorenzoNapoli, 29, D(CLR),M(R)","Giovanni Di Lorenzo Napoli, 29, D(CLR),M(R)",4,1.3,61.8,86.4,0.3,2.7,-,7.03,28,2509.0
+"19Teun KoopmeinersAtalanta, 25, D(C),M(C)","Teun Koopmeiners Atalanta, 25, D(C),M(C)",3,1.5,48.5,78.9,1.3,3.0,0.1,7.03,23(1),2051.0
+"20Stefan PoschBologna, 25, D(CR)","Stefan Posch Bologna, 25, D(CR)",1,1.0,50.5,75.8,0.4,3.6,0.2,7.03,21,1792.0
+"21Ismaël BennacerAC Milan, 25, DMC","Ismaël Bennacer AC Milan, 25, DMC",2,1.8,49.9,88.9,0.9,3.7,0.1,7.03,20(3),1713.0
+"22Felipe AndersonLazio, 29, M(CLR),FW","Felipe Anderson Lazio, 29, M(CLR),FW",2,1.3,34.1,78.8,0.2,0.8,-,7.02,26(2),2204.0
+"23Ivan ProvedelLazio, 29, GK","Ivan Provedel Lazio, 29, GK",-,-,31.2,77.1,-,8.6,-,7.01,27(1),2512.0
+"24Piotr ZielinskiNapoli, 28, M(CLR)","Piotr Zielinski Napoli, 28, M(CLR)",7,2,37.2,85.8,1.2,0.9,-,6.99,22(6),1800.0
+"25Armando IzzoMonza, 31, D(C)","Armando Izzo Monza, 31, D(C)",-,0.6,51.7,86.0,0.2,3.4,-,6.99,19(1),1624.0
+"26Amir RrahmaniNapoli, 29, D(CL)","Amir Rrahmani Napoli, 29, D(CL)",1,0.4,73.1,90.9,-,5.1,-,6.99,20(1),1819.0
+"27Nicolò BarellaInter, 26, AM(C)","Nicolò Barella Inter, 26, AM(C)",6,1.6,44.4,85.0,0.6,1.7,0.1,6.98,25(2),2107.0
+"28Manuel LocatelliJuventus, 25, M(C)","Manuel Locatelli Juventus, 25, M(C)",1,0.5,43.8,81.8,-,3.6,-,6.98,22(2),1892.0
+"29IbañezRoma, 24, D(C)","Ibañez Roma, 24, D(C)",-,0.2,52.9,88.0,-,3.0,0.1,6.97,26,2282.0
+"30Ademola LookmanAtalanta, 25, AM(CLR),FW","Ademola Lookman Atalanta, 25, AM(CLR),FW",4,1.3,20.3,78.7,0.4,0.1,0.1,6.97,19(8),1591.0
+"31Domenico BerardiSassuolo, 28, AM(R),FW","Domenico Berardi Sassuolo, 28, AM(R),FW",5,1.4,30.0,71.3,0.7,2.7,0.1,6.96,15(3),1254.0
+"32Destiny UdogieUdinese, 20, M(L)","Destiny Udogie Udinese, 20, M(L)",3,1.2,30.8,81.9,0.3,0.6,-,6.95,24,2083.0
+"33Carlos AugustoMonza, 24, D(L),M(L)","Carlos Augusto Monza, 24, D(L),M(L)",4,0.6,40.3,85.5,0.2,0.9,0.1,6.93,25,2187.0
+"34Ángel Di MaríaJuventus, 35, M(CLR),FW","Ángel Di María Juventus, 35, M(CLR),FW",4,1.7,21.0,79.3,1.5,1.1,0.3,6.93,11(6),911.0
+"35BremerJuventus, 26, D(C)","Bremer Juventus, 26, D(C)",1,0.3,54.0,90.0,-,2.8,-,6.92,24,2111.0
+"36Fabiano ParisiEmpoli, 22, D(L)","Fabiano Parisi Empoli, 22, D(L)",-,0.7,39.3,78.1,0.5,2.0,-,6.92,25,2121.0
+"37Stanislav LobotkaNapoli, 28, DMC","Stanislav Lobotka Napoli, 28, DMC",1,0.5,61.3,94.3,-,2.6,-,6.92,26(2),2342.0
+"38Chris SmallingRoma, 33, D(CR)","Chris Smalling Roma, 33, D(CR)",1,0.2,40.3,86.4,-,1.9,-,6.92,26(1),2402.0
+"39Cristiano BiraghiFiorentina, 30, D(L),M(L)","Cristiano Biraghi Fiorentina, 30, D(L),M(L)",2,2.6,43.3,77.3,2.9,2.6,-,6.91,24(2),2075.0
+"40Roberto PereyraUdinese, 32, M(CLR),FW","Roberto Pereyra Udinese, 32, M(CLR),FW",6,1.4,33.6,83.9,0.6,1.0,-,6.91,24(1),2037.0
+"41Alessio RomagnoliLazio, 28, D(CL)","Alessio Romagnoli Lazio, 28, D(CL)",-,0.1,51.3,89.9,-,3.2,-,6.89,24(1),2134.0
+"42Juan CuadradoJuventus, 34, D(R),M(CLR),FW","Juan Cuadrado Juventus, 34, D(R),M(CLR),FW",3,1.5,33.2,86.5,1.2,2.5,-,6.89,17(5),1396.0
+"43Ciro ImmobileLazio, 33, FW","Ciro Immobile Lazio, 33, FW",3,0.8,20.6,75.3,-,0.4,0.1,6.88,18(3),1481.0
+"44Rodrigo BecãoUdinese, 27, D(C)","Rodrigo Becão Udinese, 27, D(C)",1,0.4,42.1,79.5,0.1,3.0,-,6.88,21,1863.0
+"45Jaka BijolUdinese, 24, D(C),M(C),FW","Jaka Bijol Udinese, 24, D(C),M(C),FW",1,0.3,39.3,84.6,-,3.7,0.1,6.88,23,1926.0
+"46Jérémie BogaAtalanta, 26, AM(CLR),FW","Jérémie Boga Atalanta, 26, AM(CLR),FW",5,1.7,18.8,84.4,1.2,1.1,0.1,6.87,5(13),623.0
+"47Filip KosticJuventus, 30, M(LR),FW","Filip Kostic Juventus, 30, M(LR),FW",8,1.9,24.1,79.6,1.5,1.0,-,6.87,25(3),2037.0
+"48Fikayo TomoriAC Milan, 25, D(CR)","Fikayo Tomori AC Milan, 25, D(CR)",-,0.2,53.1,87.3,-,5.2,-,6.85,24(1),2104.0
+"49Stefan de VrijInter, 31, D(C)","Stefan de Vrij Inter, 31, D(C)",-,0.1,47.6,88.5,-,1.5,-,6.85,15(2),1338.0
+"50Rafael TolóiAtalanta, 32, D(C)","Rafael Tolói Atalanta, 32, D(C)",1,0.6,50.7,80.8,0.1,3.1,-,6.85,23,1981.0
+"51Hirving LozanoNapoli, 27, AM(LR),FW","Hirving Lozano Napoli, 27, AM(LR),FW",3,0.9,14.9,80.6,0.7,0.2,-,6.85,15(11),1307.0
+"52Ardian IsmajliEmpoli, 26, D(C)","Ardian Ismajli Empoli, 26, D(C)",-,0.2,40.6,85.0,-,2.3,-,6.85,19(2),1763.0
+"53Guglielmo VicarioEmpoli, 26, GK","Guglielmo Vicario Empoli, 26, GK",-,-,36.9,71.1,-,6.4,-,6.85,24,2160.0
+"54Matteo PessinaMonza, 25, AM(CR)","Matteo Pessina Monza, 25, AM(CR)",2,0.8,53.7,86.4,0.3,2.1,-,6.85,24(1),2067.0
+"55Federico DimarcoInter, 25, D(CL),M(L)","Federico Dimarco Inter, 25, D(CL),M(L)",2,1.8,31.1,80.1,2,2.4,-,6.85,21(4),1695.0
+"56Luigi SepeSalernitana, 31, GK","Luigi Sepe Salernitana, 31, GK",-,-,32.9,63.9,-,6.5,-,6.84,17,1530.0
+"57Rolando MandragoraFiorentina, 25, DMC","Rolando Mandragora Fiorentina, 25, DMC",3,1.3,31.0,84.3,0.9,2.1,-,6.84,16(5),1430.0
+"58Olivier GiroudAC Milan, 36, FW","Olivier Giroud AC Milan, 36, FW",4,0.8,17.0,62.0,-,0.1,-,6.84,20(5),1658.0
+"59Dusan VlahovicJuventus, 23, FW","Dusan Vlahovic Juventus, 23, FW",2,0.9,15.9,71.9,0.1,0.8,-,6.84,17(2),1500.0
+"60Nicolò CasaleLazio, 25, D(C)","Nicolò Casale Lazio, 25, D(C)",1,0.2,56.3,92.0,-,3.1,0.1,6.84,20,1767.0
+"61Davide FrattesiSassuolo, 23, DMC","Davide Frattesi Sassuolo, 23, DMC",-,0.9,27.8,78.1,0.1,1.8,0.1,6.83,27(1),2253.0
+"62Bryan CristanteRoma, 28, D(C),M(C)","Bryan Cristante Roma, 28, D(C),M(C)",1,0.5,48.1,81.8,0.1,3.5,0.1,6.83,26,2178.0
+"63Theo HernándezAC Milan, 25, D(L),M(L)","Theo Hernández AC Milan, 25, D(L),M(L)",3,1.3,37.9,78.1,0.9,2.0,-,6.83,24,2101.0
+"64Morten HjulmandLecce, 23, DMC","Morten Hjulmand Lecce, 23, DMC",4,0.8,35.7,78.4,0.1,2.4,-,6.83,26,2218.0
+"65Junior MessiasAC Milan, 31, M(CR),FW","Junior Messias AC Milan, 31, M(CR),FW",2,0.6,20.3,77.3,0.1,0.7,0.1,6.82,14(4),1113.0
+"66Luis AlbertoLazio, 30, AM(CL),FW","Luis Alberto Lazio, 30, AM(CL),FW",3,1.4,45.5,87.4,0.9,1.4,0.2,6.82,17(8),1544.0
+"67Gabriel StrefezzaLecce, 25, M(LR)","Gabriel Strefezza Lecce, 25, M(LR)",1,1.2,21.5,68.3,1,1.7,0.1,6.82,23(3),1849.0
+"68Sandro TonaliAC Milan, 22, DMC","Sandro Tonali AC Milan, 22, DMC",5,1.6,35.8,78.1,0.6,2.5,0.1,6.82,22(3),2024.0
+"69Arkadiusz MilikJuventus, 29, AM(C),FW","Arkadiusz Milik Juventus, 29, AM(C),FW",1,0.5,16.5,80.5,-,0.3,0.1,6.81,11(7),1038.0
+"70Nicolò RovellaMonza, 21, DMC","Nicolò Rovella Monza, 21, DMC",-,0.9,57.5,89.6,0.3,4.4,-,6.81,13(2),1100.0
+"71Wojciech SzczesnyJuventus, 32, GK","Wojciech Szczesny Juventus, 32, GK",-,-,23.6,73.3,-,6.0,-,6.8,20,1753.0
+"72Francesco AcerbiInter, 35, D(C)","Francesco Acerbi Inter, 35, D(C)",1,0.4,54.1,88.7,0.1,3.4,-,6.8,18(3),1693.0
+"73Tammy AbrahamRoma, 25, FW","Tammy Abraham Roma, 25, FW",3,1,14.1,69.6,-,0.5,0.1,6.79,21(7),1814.0
+"74Marten de RoonAtalanta, 32, D(C),DMC","Marten de Roon Atalanta, 32, D(C),DMC",1,0.5,51.5,83.5,-,3.2,-,6.78,24(1),2066.0
+"75Emil AuderoSampdoria, 26, GK","Emil Audero Sampdoria, 26, GK",-,-,32.4,63.6,-,8.4,-,6.78,25,2250.0
+"76Nicolás DomínguezBologna, 24, M(C)","Nicolás Domínguez Bologna, 24, M(C)",2,1.1,40.3,81.6,-,2.0,0.3,6.78,18(4),1622.0
+"77Davide CalabriaAC Milan, 26, D(LR),M(R)","Davide Calabria AC Milan, 26, D(LR),M(R)",3,0.6,39.4,80.6,0.7,1.8,-,6.78,14(2),1110.0
+"78Lukasz SkorupskiBologna, 31, GK","Lukasz Skorupski Bologna, 31, GK",-,-,28.3,73.4,-,5.9,-,6.77,27,2430.0
+"79Boulaye DiaSalernitana, 26, AM(R),FW","Boulaye Dia Salernitana, 26, AM(R),FW",4,1.1,17.1,76.8,0.1,0.5,0.1,6.77,20(5),1862.0
+"80Gianluca ManciniRoma, 26, D(C),DMC","Gianluca Mancini Roma, 26, D(C),DMC",2,0.5,46.9,82.2,0.1,3.3,-,6.77,26,2189.0
+"81Brahim DíazAC Milan, 23, AM(CLR)","Brahim Díaz AC Milan, 23, AM(CLR)",4,1.3,20.3,82.5,-,0.6,0.1,6.76,20(4),1380.0
+"82Edin DzekoInter, 37, FW","Edin Dzeko Inter, 37, FW",3,0.8,15.8,71.7,0.1,0.6,0.1,6.76,17(11),1581.0
+"83Pasquale MazzocchiSalernitana, 27, D(R),M(LR)","Pasquale Mazzocchi Salernitana, 27, D(R),M(LR)",2,1.4,25.4,79.5,0.9,1.3,0.1,6.76,17(2),1430.0
+"84Christian KouaméFiorentina, 25, AM(LR),FW","Christian Kouamé Fiorentina, 25, AM(LR),FW",2,1.5,23.7,74.2,0.5,0.6,-,6.75,18(3),1514.0
+"85Alessandro BastoniInter, 23, D(C)","Alessandro Bastoni Inter, 23, D(C)",2,0.5,54.7,85.2,0.5,4.9,-,6.74,20(2),1695.0
+"86MBala NzolaSpezia, 26, FW","MBala Nzola Spezia, 26, FW",2,0.9,18.8,80.1,0.1,0.1,-,6.74,22(1),1988.0
+"87Ola AinaTorino, 26, D(CLR),M(LR)","Ola Aina Torino, 26, D(CLR),M(LR)",1,0.7,23.3,76.9,0.7,0.8,-,6.74,9(7),809.0
+"88Nikola MilenkovicFiorentina, 25, D(CR)","Nikola Milenkovic Fiorentina, 25, D(CR)",1,0.3,48.0,85.2,-,2.7,-,6.74,18(3),1641.0
+"89Federico BaschirottoLecce, 26, D(C)","Federico Baschirotto Lecce, 26, D(C)",-,0.1,38.4,73.6,-,3.7,-,6.73,27,2430.0
+"90Giacomo BonaventuraFiorentina, 33, M(CLR)","Giacomo Bonaventura Fiorentina, 33, M(CLR)",-,1.1,31.1,85.8,0.3,1.3,0.1,6.73,19(5),1651.0
+"91Ethan AmpaduSpezia, 22, D(C),DMC","Ethan Ampadu Spezia, 22, D(C),DMC",1,0.4,47.0,79.1,0.2,3.2,0.1,6.73,22,1906.0
+"92Stefano SensiMonza, 27, AM(C)","Stefano Sensi Monza, 27, AM(C)",-,1.0,50.5,88.0,0.6,3.7,0.1,6.73,18(3),1403.0
+"93Adam MarusicLazio, 30, D(CLR),M(LR)","Adam Marusic Lazio, 30, D(CLR),M(LR)",2,0.3,52.2,88.0,0.1,2.0,-,6.73,25(1),2280.0
+"94André OnanaInter, 27, GK","André Onana Inter, 27, GK",-,0.1,36.7,78.0,-,6.2,-,6.73,18,1620.0
+"95Rade KrunicAC Milan, 29, M(CL)","Rade Krunic AC Milan, 29, M(CL)",1,0.7,30.1,82.3,0.1,1.0,0.1,6.73,12(4),1093.0
+"96Lewis FergusonBologna, 23, M(C)","Lewis Ferguson Bologna, 23, M(C)",-,0.5,33.1,84.1,0.1,0.5,-,6.72,19(3),1604.0
+"97Lazar SamardzicUdinese, 21, M(C)","Lazar Samardzic Udinese, 21, M(C)",3,1.1,17.9,85.9,0.9,1.9,-,6.72,10(17),1115.0
+"98Marko ArnautovicBologna, 33, AM(CLR),FW","Marko Arnautovic Bologna, 33, AM(CLR),FW",-,1.2,22.4,72.9,0.1,0.4,-,6.72,14(2),1237.0
+"99Alex SandroJuventus, 32, D(CL),M(L)","Alex Sandro Juventus, 32, D(CL),M(L)",1,0.5,43.8,88.1,0.1,2.7,-,6.72,17(4),1456.0
+"100Antonio SanabriaTorino, 27, FW","Antonio Sanabria Torino, 27, FW",2,0.8,19.5,76.8,-,0.5,-,6.72,18(5),1627.0
+"101Michele Di GregorioMonza, 25, GK","Michele Di Gregorio Monza, 25, GK",-,-,33.1,72.6,-,6.6,-,6.71,27,2430.0
+"102ÉdersonAtalanta, 23, M(C)","Éderson Atalanta, 23, M(C)",1,0.7,31.3,82.2,0.2,2.0,-,6.71,17(8),1543.0
+"103Wladimiro FalconeLecce, 27, GK","Wladimiro Falcone Lecce, 27, GK",-,-,28.4,45.0,-,6.2,-,6.7,28,2520.0
+"104Nicolás GonzálezFiorentina, 24, M(CLR),FW","Nicolás González Fiorentina, 24, M(CLR),FW",1,1,20.0,68.5,0.3,1.1,-,6.7,9(8),905.0
+"105Stephan El ShaarawyRoma, 30, M(CLR),FW","Stephan El Shaarawy Roma, 30, M(CLR),FW",1,0.7,23.4,81.5,0.2,1.0,-,6.7,8(13),1012.0
+"106Alex MeretNapoli, 26, GK","Alex Meret Napoli, 26, GK",-,-,24.3,85.2,-,3.9,-,6.7,27,2430.0
+"107Riccardo OrsoliniBologna, 26, M(CR),FW","Riccardo Orsolini Bologna, 26, M(CR),FW",3,1.3,23.5,68.2,1,1.9,-,6.7,16(8),1561.0
+"108Darko LazovicVerona, 32, M(CLR)","Darko Lazovic Verona, 32, M(CLR)",4,1.4,22.6,70.0,1.1,0.7,0.1,6.7,22(1),1805.0
+"109BetoUdinese, 25, FW","Beto Udinese, 25, FW",1,0.7,9.0,65.7,-,0.2,-,6.7,20(8),1803.0
+"110Henrikh MkhitaryanInter, 34, M(CLR),FW","Henrikh Mkhitaryan Inter, 34, M(CLR),FW",1,0.6,33.5,87.9,0.3,1.4,-,6.69,19(6),1630.0
+"111Razvan MarinEmpoli, 26, M(C)","Razvan Marin Empoli, 26, M(C)",2,1.5,41.8,85.0,0.9,2.9,-,6.69,21(5),1933.0
+"112Nehuén PérezUdinese, 22, D(C)","Nehuén Pérez Udinese, 22, D(C)",-,0.3,49.1,86.6,0.2,4.5,-,6.69,24,2030.0
+"113Marco CarnesecchiCremonese, 22, GK","Marco Carnesecchi Cremonese, 22, GK",1,0.1,29.4,53.8,-,6.7,-,6.69,19,1710.0
+"114Aleksey MiranchukTorino, 27, M(CR),FW","Aleksey Miranchuk Torino, 27, M(CR),FW",4,1.7,27.7,82.3,0.4,1.2,0.1,6.68,18(3),1530.0
+"115Lorenzo MontipòVerona, 27, GK","Lorenzo Montipò Verona, 27, GK",-,-,28.9,59.5,-,9.1,-,6.68,27,2430.0
+"116PedroLazio, 35, M(CLR),FW","Pedro Lazio, 35, M(CLR),FW",2,0.6,28.0,83.7,0.2,0.8,-,6.68,14(12),1518.0
+"117Rasmus HøjlundAtalanta, 20, FW","Rasmus Højlund Atalanta, 20, FW",2,0.9,13.6,75.5,-,0.3,-,6.68,14(10),1312.0
+"118Nikola MoroBologna, 25, DMC","Nikola Moro Bologna, 25, DMC",3,0.6,27.8,79.1,0.1,1.9,0.2,6.68,8(8),758.0
+"119Samuel UmtitiLecce, 29, D(CL)","Samuel Umtiti Lecce, 29, D(CL)",-,0.1,34.2,83.0,0.1,2.0,-,6.68,14(1),1215.0
+"120Patrick CiurriaMonza, 28, M(CR)","Patrick Ciurria Monza, 28, M(CR)",4,1.1,28.7,81.8,0.8,1.0,-,6.68,21(5),1878.0
+"121Denzel DumfriesInter, 26, D(R),M(R)","Denzel Dumfries Inter, 26, D(R),M(R)",3,1.0,21.1,77.4,0.5,0.6,-,6.68,19(6),1656.0
+"122Norbert GyömbérSalernitana, 30, D(CR),DMC","Norbert Gyömbér Salernitana, 30, D(CR),DMC",-,0.1,26.6,84.6,-,1.7,-,6.67,16(4),1249.0
+"123Hans HateboerAtalanta, 29, D(R),M(R)","Hans Hateboer Atalanta, 29, D(R),M(R)",1,0.8,32.4,81.7,0.4,1.0,0.1,6.67,17,1402.0
+"124Matteo DarmianInter, 33, D(CLR),M(LR)","Matteo Darmian Inter, 33, D(CLR),M(LR)",2,0.8,36.6,86.0,0.4,1.6,-,6.67,19(4),1540.0
+"125Nikola VlasicTorino, 25, AM(CLR),FW","Nikola Vlasic Torino, 25, AM(CLR),FW",2,1.9,28.3,81.7,0.5,0.5,-,6.67,22(2),2021.0
+"126Jhon LucumíBologna, 24, D(C)","Jhon Lucumí Bologna, 24, D(C)",1,0.3,54.9,87.8,-,4.3,-,6.66,24,2092.0
+"127WalaceUdinese, 28, DMC","Walace Udinese, 28, DMC",-,0.4,46.5,83.6,0.1,3.0,-,6.66,27,2356.0
+"128Leonardo SpinazzolaRoma, 30, D(LR),M(L)","Leonardo Spinazzola Roma, 30, D(LR),M(L)",3,0.8,30.4,77.3,0.6,1.8,0.1,6.66,15(4),1305.0
+"129Perr SchuursTorino, 23, D(C)","Perr Schuurs Torino, 23, D(C)",2,0.2,38.4,87.1,-,1.6,-,6.66,21(1),1722.0
+"130Milan DjuricVerona, 32, FW","Milan Djuric Verona, 32, FW",-,0.7,17.1,53.7,-,0.1,-,6.65,8(10),760.0
+"131Matteo PolitanoNapoli, 29, AM(CLR),FW","Matteo Politano Napoli, 29, AM(CLR),FW",3,1.4,20.4,81.1,0.7,0.9,0.1,6.65,13(10),1041.0
+"132Bartlomiej DragowskiSpezia, 25, GK","Bartlomiej Dragowski Spezia, 25, GK",-,-,28.2,62.5,-,5.7,-,6.65,26,2228.0
+"133Wilfried SingoTorino, 22, M(R)","Wilfried Singo Torino, 22, M(R)",1,0.7,28.6,75.1,0.3,1.3,-,6.65,16(6),1447.0
+"134Nemanja MaticRoma, 34, DMC","Nemanja Matic Roma, 34, DMC",2,0.7,39.0,86.6,0.1,2.4,-,6.64,14(13),1501.0
+"135Merih DemiralAtalanta, 25, D(C)","Merih Demiral Atalanta, 25, D(C)",-,0.2,26.2,85.7,-,1.6,-,6.64,14(9),1448.0
+"136Giorgio ScalviniAtalanta, 19, D(C)","Giorgio Scalvini Atalanta, 19, D(C)",-,0.2,43.8,81.0,0.1,2.2,-,6.64,19(3),1575.0
+"137Sandi LovricUdinese, 25, AM(C)","Sandi Lovric Udinese, 25, AM(C)",3,1.1,23.7,84.2,0.7,1.4,-,6.64,18(9),1551.0
+"138Eljif ElmasNapoli, 23, M(CLR)","Eljif Elmas Napoli, 23, M(CLR)",2,0.7,21.3,85.6,0.4,0.5,0.1,6.64,7(20),1029.0
+"139Emil HolmSpezia, 22, M(R)","Emil Holm Spezia, 22, M(R)",1,0.7,20.7,61.4,0.4,0.4,-,6.64,17(3),1398.0
+"140Lassana CoulibalySalernitana, 26, M(CL)","Lassana Coulibaly Salernitana, 26, M(CL)",2,0.5,32.0,83.9,-,0.8,-,6.63,25(1),2152.0
+"141Jerdy SchoutenBologna, 26, DMC","Jerdy Schouten Bologna, 26, DMC",2,0.4,38.9,86.0,-,1.5,-,6.63,20(4),1736.0
+"142Ricardo RodríguezTorino, 30, D(CL),M(L)","Ricardo Rodríguez Torino, 30, D(CL),M(L)",-,0.9,44.2,84.3,0.8,2.0,-,6.63,20(5),1860.0
+"143Martin ErlicSassuolo, 25, D(C)","Martin Erlic Sassuolo, 25, D(C)",-,0.1,47.2,86.2,-,4.5,-,6.63,19(1),1700.0
+"144Alessandro BuongiornoTorino, 23, D(C)","Alessandro Buongiorno Torino, 23, D(C)",1,0.2,40.9,84.4,0.1,1.1,-,6.63,20(4),1834.0
+"145Zeki ÇelikRoma, 26, D(R),M(R)","Zeki Çelik Roma, 26, D(R),M(R)",-,0.8,27.8,76.1,0.2,1.2,-,6.62,10(7),1014.0
+"146Jakub KiwiorSpezia, 23, D(C),DMC","Jakub Kiwior Spezia, 23, D(C),DMC",-,0.2,43.9,85.3,0.4,3.3,-,6.62,17,1447.0
+"147Danilo CataldiLazio, 28, M(C)","Danilo Cataldi Lazio, 28, M(C)",1,0.6,45.4,88.4,0.6,2.0,-,6.62,23(2),1723.0
+"148Filippo BandinelliEmpoli, 28, M(C)","Filippo Bandinelli Empoli, 28, M(C)",-,1.0,26.5,78.5,0.9,1.0,-,6.61,22(5),1834.0
+"149Samuele RicciTorino, 21, M(C)","Samuele Ricci Torino, 21, M(C)",1,0.7,42.9,90.6,0.3,1.6,0.1,6.61,15(4),1426.0
+"150Valentino LazaroTorino, 27, D(R),M(CLR)","Valentino Lazaro Torino, 27, D(R),M(CLR)",3,1.4,33.1,77.4,1.4,1.1,-,6.61,13(3),1106.0
+"151Juan MussoAtalanta, 28, GK","Juan Musso Atalanta, 28, GK",-,-,23.0,67.7,-,5.2,-,6.61,22,1898.0
+"152RogerioSassuolo, 25, D(L),M(L)","Rogerio Sassuolo, 25, D(L),M(L)",2,0.7,44.7,80.9,0.9,3.4,-,6.61,25(1),2187.0
+"153Lorenzo PirolaSalernitana, 21, D(C)","Lorenzo Pirola Salernitana, 21, D(C)",-,0.2,33.7,80.0,-,1.4,-,6.6,13(3),1162.0
+"154Valentin GendreyLecce, 22, D(R)","Valentin Gendrey Lecce, 22, D(R)",1,0.6,28.4,73.3,0.4,0.9,-,6.6,26(2),2340.0
+"155Alexis BlinLecce, 26, DMC","Alexis Blin Lecce, 26, DMC",-,0.3,26.4,81.8,0.2,0.8,-,6.6,18(8),1682.0
+"156Pietro TerraccianoFiorentina, 33, GK","Pietro Terracciano Fiorentina, 33, GK",-,-,32.5,73.0,-,8.1,-,6.6,24,2160.0
+"157Musa BarrowBologna, 24, AM(CL),FW","Musa Barrow Bologna, 24, AM(CL),FW",4,1.4,18.8,76.8,1,1.2,-,6.6,16(6),1261.0
+"158Mathías OliveraNapoli, 25, D(L),M(L)","Mathías Olivera Napoli, 25, D(L),M(L)",2,1,32.6,87.4,0.2,0.9,-,6.6,9(12),924.0
+"159Nicolò FagioliJuventus, 22, M(C)","Nicolò Fagioli Juventus, 22, M(C)",3,0.7,21.1,86.0,0.3,1.2,0.1,6.6,11(8),1044.0
+"160David OkerekeCremonese, 25, AM(CLR),FW","David Okereke Cremonese, 25, AM(CLR),FW",-,0.7,15.0,72.2,0.2,0.5,-,6.6,21(4),1790.0
+"161Ciprian TatarusanuAC Milan, 37, GK","Ciprian Tatarusanu AC Milan, 37, GK",1,0.1,30.1,75.5,-,7.9,-,6.59,16,1440.0
+"162Manuel LazzariLazio, 29, D(R),M(R)","Manuel Lazzari Lazio, 29, D(R),M(R)",-,0.4,34.8,89.3,0.2,0.9,-,6.59,18(3),1483.0
+"163Weston McKennieJuventus, 24, D(C),M(CLR)","Weston McKennie Juventus, 24, D(C),M(CLR)",1,0.5,25.1,81.7,0.3,1.1,0.1,6.59,13(2),1060.0
+"164Matheus HenriqueSassuolo, 25, M(C)","Matheus Henrique Sassuolo, 25, M(C)",-,1.0,29.4,86.2,-,1.4,0.1,6.59,13(7),1270.0
+"165Marcelo BrozovicInter, 30, M(CR)","Marcelo Brozovic Inter, 30, M(CR)",-,0.6,48.2,89.0,0.5,2.7,0.1,6.58,12(6),1090.0
+"166Pierre KaluluAC Milan, 22, D(CR)","Pierre Kalulu AC Milan, 22, D(CR)",-,0.3,50.7,88.6,0.2,2.8,0.1,6.58,22(5),2118.0
+"167Charalampos LykogiannisBologna, 29, D(CL),M(L)","Charalampos Lykogiannis Bologna, 29, D(CL),M(L)",-,0.9,28.7,74.8,0.9,1.3,-,6.58,11(7),1054.0
+"168Sasa LukicTorino, 26, M(C)","Sasa Lukic Torino, 26, M(C)",-,1.0,43.8,88.1,0.4,2.5,-,6.58,13(3),1195.0
+"169Matías VecinoLazio, 31, M(C)","Matías Vecino Lazio, 31, M(C)",-,0.2,30.1,84.3,-,0.8,-,6.58,12(13),1275.0
+"170Matteo RuggeriAtalanta, 20, M(L)","Matteo Ruggeri Atalanta, 20, M(L)",1,0.7,33.0,84.2,0.8,1.1,-,6.57,8(7),823.0
+"171Ruslan MalinovskyiAtalanta, 29, M(CLR),FW","Ruslan Malinovskyi Atalanta, 29, M(CLR),FW",2,0.9,20.1,79.5,0.5,1.7,0.1,6.57,5(10),548.0
+"172Krzysztof PiatekSalernitana, 27, FW","Krzysztof Piatek Salernitana, 27, FW",2,0.6,16.8,70.3,-,0.4,-,6.57,17(7),1567.0
+"173Kevin AgudeloSpezia, 24, AM(CR),FW","Kevin Agudelo Spezia, 24, AM(CR),FW",1,0.9,21.3,75.8,0.2,0.6,0.1,6.57,21(6),1835.0
+"174Flavius DaniliucSalernitana, 21, D(CR)","Flavius Daniliuc Salernitana, 21, D(CR)",2,0.2,43.2,85.6,-,3.1,-,6.57,17(2),1570.0
+"175Antonino GalloLecce, 23, D(L)","Antonino Gallo Lecce, 23, D(L)",1,1.1,29.2,70.8,0.9,2.0,-,6.57,19(4),1697.0
+"176Tommaso BaldanziEmpoli, 20, AM(C)","Tommaso Baldanzi Empoli, 20, AM(C)",-,0.8,24.7,85.1,0.1,0.6,0.1,6.56,17(2),1242.0
+"177Pablo MaríMonza, 29, D(C)","Pablo Marí Monza, 29, D(C)",-,-,54.5,88.1,-,4.4,-,6.56,19(2),1763.0
+"178Nicola ZalewskiRoma, 21, M(LR)","Nicola Zalewski Roma, 21, M(LR)",1,0.3,27.3,78.0,0.4,1.8,-,6.56,18(6),1539.0
+"179Sebastiano LupertoEmpoli, 26, D(C)","Sebastiano Luperto Empoli, 26, D(C)",-,0.1,46.0,85.9,-,2.7,-,6.56,26,2256.0
+"180Andrea CambiasoBologna, 23, D(LR),M(L)","Andrea Cambiaso Bologna, 23, D(LR),M(L)",2,0.8,34.7,82.7,0.4,1.2,-,6.55,19(6),1622.0
+"181Andrea PetagnaMonza, 27, FW","Andrea Petagna Monza, 27, FW",4,1,15.4,73.7,-,0.6,0.1,6.55,16(7),1327.0
+"182DodôFiorentina, 24, D(R)","Dodô Fiorentina, 24, D(R)",2,0.8,39.0,85.5,0.3,1.8,-,6.55,21(3),1758.0
+"183Arkadiusz RecaSpezia, 27, D(L),M(L)","Arkadiusz Reca Spezia, 27, D(L),M(L)",1,0.7,29.9,71.3,0.9,1.4,-,6.55,19(2),1614.0
+"184Marco SilvestriUdinese, 32, GK","Marco Silvestri Udinese, 32, GK",-,-,25.8,72.4,-,4.7,-,6.55,28,2520.0
+"185Matteo BianchettiCremonese, 30, D(C)","Matteo Bianchetti Cremonese, 30, D(C)",-,0.2,35.8,77.4,-,2.1,-,6.55,19(2),1782.0
+"186Jean-Daniel Akpa AkproEmpoli, 30, D(R),M(CLR)","Jean-Daniel Akpa Akpro Empoli, 30, D(R),M(CLR)",-,0.3,18.1,77.9,0.1,0.5,0.1,6.54,12(5),967.0
+"187Isak HienVerona, 24, D(C)","Isak Hien Verona, 24, D(C)",-,0.1,32.5,73.7,-,2.0,-,6.54,18(4),1736.0
+"188Giangiacomo MagnaniVerona, 27, D(C)","Giangiacomo Magnani Verona, 27, D(C)",-,0.2,18.9,73.3,0.1,1.7,-,6.54,11(5),896.0
+"189Pawel DawidowiczVerona, 27, D(C)","Pawel Dawidowicz Verona, 27, D(C)",1,0.3,36.6,78.1,-,2.1,0.1,6.54,15(2),1225.0
+"190Arthur CabralFiorentina, 24, FW","Arthur Cabral Fiorentina, 24, FW",1,0.5,9.2,68.9,-,0.2,-,6.54,10(13),1017.0
+"191Elseid HysajLazio, 29, D(LR),M(R)","Elseid Hysaj Lazio, 29, D(LR),M(R)",1,0.4,31.7,84.5,0.1,1.2,0.1,6.54,13(11),1249.0
+"192Maxime LopezSassuolo, 25, M(CR)","Maxime Lopez Sassuolo, 25, M(CR)",-,1.0,50.7,88.1,0.1,2.8,-,6.54,17(4),1604.0
+"193Bruno AmioneSampdoria, 21, D(C)","Bruno Amione Sampdoria, 21, D(C)",1,0.1,41.0,78.3,0.1,1.1,-,6.53,17,1424.0
+"194Mehdi LérisSampdoria, 24, M(CLR)","Mehdi Léris Sampdoria, 24, M(CLR)",1,0.6,25.0,70.4,0.2,1.0,-,6.53,22(3),1892.0
+"195Tyronne EbuehiEmpoli, 27, D(LR)","Tyronne Ebuehi Empoli, 27, D(LR)",1,0.3,23.2,79.0,0.3,1.2,-,6.53,13(4),1161.0
+"196Leonardo SernicolaCremonese, 25, D(R),M(R)","Leonardo Sernicola Cremonese, 25, D(R),M(R)",1,0.7,21.7,72.5,1.3,1.3,-,6.53,21(2),1787.0
+"197Mehdi BourabiaSpezia, 31, M(C)","Mehdi Bourabia Spezia, 31, M(C)",2,1.0,35.5,80.2,0.4,1.4,0.1,6.53,27(1),2193.0
+"198Josh DoigVerona, 20, D(CL),M(L)","Josh Doig Verona, 20, D(CL),M(L)",3,0.6,16.9,69.5,0.5,0.7,-,6.53,14(6),1268.0
+"199Jonathan IkonéFiorentina, 24, AM(CLR),FW","Jonathan Ikoné Fiorentina, 24, AM(CLR),FW",4,0.9,19.5,83.7,0.1,1.3,-,6.53,18(8),1590.0
+"200Filip DjuricicSampdoria, 31, AM(CLR),FW","Filip Djuricic Sampdoria, 31, AM(CLR),FW",-,1.2,22.3,79.0,0.6,0.9,-,6.53,22(3),1733.0
+"201Antonio CandrevaSalernitana, 36, M(CLR)","Antonio Candreva Salernitana, 36, M(CLR)",3,1.4,36.6,79.3,1.3,2.4,0.1,6.52,25(2),2157.0
+"202Isaac SuccessUdinese, 27, AM(LR),FW","Isaac Success Udinese, 27, AM(LR),FW",6,1,18.7,66.3,-,0.6,-,6.52,18(9),1618.0
+"203Vanja Milinkovic-SavicTorino, 26, GK","Vanja Milinkovic-Savic Torino, 26, GK",-,-,40.5,55.3,-,8.1,-,6.52,28,2520.0
+"204Fabio DepaoliVerona, 25, D(R),DMC,M(LR)","Fabio Depaoli Verona, 25, D(R),DMC,M(LR)",2,0.6,16.5,65.3,0.8,0.9,-,6.52,17(5),1558.0
+"205Omar ColleySampdoria, 30, D(C)","Omar Colley Sampdoria, 30, D(C)",-,-,44.4,86.2,-,2.4,-,6.51,15(1),1385.0
+"206Kelvin AmianSpezia, 25, D(CLR),M(R)","Kelvin Amian Spezia, 25, D(CLR),M(R)",1,0.5,27.7,75.4,0.4,1.2,-,6.51,17(4),1590.0
+"207Simone VerdiVerona, 30, AM(CLR),FW","Simone Verdi Verona, 30, AM(CLR),FW",-,0.9,13.3,74.4,0.8,1.1,0.1,6.5,6(9),628.0
+"208Nicolò CambiaghiEmpoli, 22, Forward","Nicolò Cambiaghi Empoli, 22, Forward",1,0.3,11.0,81.8,0.1,0.3,-,6.5,4(14),587.0
+"209Dany MotaMonza, 24, FW","Dany Mota Monza, 24, FW",-,0.9,17.5,73.4,0.3,0.6,-,6.5,12(8),1208.0
+"210Roberto SorianoBologna, 32, AM(CLR)","Roberto Soriano Bologna, 32, AM(CLR)",3,0.8,21.6,81.3,0.1,0.7,0.2,6.49,14(12),1280.0
+"211Rui PatrícioRoma, 35, GK","Rui Patrício Roma, 35, GK",-,-,22.5,73.8,-,5.1,-,6.49,28,2520.0
+"212Koffi DjidjiTorino, 30, D(CL)","Koffi Djidji Torino, 30, D(CL)",-,0.1,41.1,86.4,0.2,1.5,-,6.49,20(5),1836.0
+"213Abdelhamid SabiriSampdoria, 26, AM(CL),FW","Abdelhamid Sabiri Sampdoria, 26, AM(CL),FW",-,0.9,23.9,74.1,0.6,1.5,0.1,6.48,12(4),1009.0
+"214Emanuel AiwuCremonese, 22, D(C)","Emanuel Aiwu Cremonese, 22, D(C)",-,0.2,32.5,81.5,0.1,1.2,0.1,6.48,15(4),1390.0
+"215Andrea PinamontiSassuolo, 23, FW","Andrea Pinamonti Sassuolo, 23, FW",-,0.5,15.8,65.2,0.1,0.2,-,6.48,20(4),1717.0
+"216Manolo GabbiadiniSampdoria, 31, AM(CLR),FW","Manolo Gabbiadini Sampdoria, 31, AM(CLR),FW",1,0.5,15.2,68.4,0.1,0.2,-,6.48,17(8),1523.0
+"217Alexis SaelemaekersAC Milan, 23, M(R)","Alexis Saelemaekers AC Milan, 23, M(R)",2,0.6,16.2,79.0,0.5,0.5,-,6.47,10(10),904.0
+"218Tommaso AugelloSampdoria, 28, D(L),M(L)","Tommaso Augello Sampdoria, 28, D(L),M(L)",2,1,34.9,77.0,1,1.8,-,6.47,25(2),2170.0
+"219Adama SoumaoroBologna, 30, D(CR)","Adama Soumaoro Bologna, 30, D(CR)",-,0.1,46.4,93.5,-,1.7,-,6.47,17(1),1506.0
+"220Gianluca CaprariMonza, 29, AM(CLR),FW","Gianluca Caprari Monza, 29, AM(CLR),FW",2,0.8,27.1,83.8,0.7,0.9,-,6.47,25(3),1898.0
+"221Daniel MaldiniSpezia, 21, Forward","Daniel Maldini Spezia, 21, Forward",-,0.2,9.7,72.4,0.2,0.2,-,6.47,2(13),499.0
+"222Karol LinettyTorino, 28, M(CLR)","Karol Linetty Torino, 28, M(CLR)",-,0.7,31.3,86.7,0.3,1.1,-,6.46,20(7),1698.0
+"223Riccardo SaponaraFiorentina, 31, AM(CL)","Riccardo Saponara Fiorentina, 31, AM(CL)",2,0.8,15.4,76.3,0.3,0.3,-,6.46,11(12),979.0
+"224Joan GonzàlezLecce, 21, M(C)","Joan Gonzàlez Lecce, 21, M(C)",3,0.5,23.6,79.3,0.1,0.8,-,6.46,23(4),1956.0
+"225Gary MedelBologna, 35, D(C),DMC","Gary Medel Bologna, 35, D(C),DMC",1,0.3,44.8,89.0,-,2.9,-,6.46,16(6),1350.0
+"226Tomás RincónSampdoria, 35, M(CR)","Tomás Rincón Sampdoria, 35, M(CR)",2,0.8,34.8,82.9,0.2,2.3,-,6.46,20(4),1719.0
+"227Luka LochoshviliCremonese, 24, D(C)","Luka Lochoshvili Cremonese, 24, D(C)",1,0.2,32.4,78.9,0.1,1.1,-,6.46,15(2),1271.0
+"228Federico CeccheriniVerona, 30, D(C)","Federico Ceccherini Verona, 30, D(C)",-,0.3,29.8,76.9,-,1.7,-,6.45,15(1),1109.0
+"229Assan CeesayLecce, 29, FW","Assan Ceesay Lecce, 29, FW",-,0.1,10.5,60.7,0.1,0.2,-,6.45,14(10),1193.0
+"230Mario PasalicAtalanta, 28, M(CLR)","Mario Pasalic Atalanta, 28, M(CLR)",2,0.5,21.2,82.0,-,0.7,-,6.45,15(8),1259.0
+"231Fabio MirettiJuventus, 19, AM(C)","Fabio Miretti Juventus, 19, AM(C)",2,0.7,18.8,72.6,0.3,0.5,0.1,6.45,10(10),943.0
+"232Luis MurielAtalanta, 31, AM(CL),FW","Luis Muriel Atalanta, 31, AM(CL),FW",2,1.3,16.7,69.5,0.8,0.9,0.2,6.45,8(11),822.0
+"233Romelu LukakuInter, 29, AM(R),FW","Romelu Lukaku Inter, 29, AM(R),FW",1,0.8,12.2,69.2,0.1,0.3,0.1,6.45,10(6),867.0
+"234Alberto GrassiEmpoli, 28, DMC","Alberto Grassi Empoli, 28, DMC",-,0.2,16.6,80.1,-,0.5,-,6.45,7(9),579.0
+"235Tonny VilhenaSalernitana, 28, D(L),M(CL)","Tonny Vilhena Salernitana, 28, D(L),M(CL)",1,0.7,23.7,79.4,0.5,0.9,-,6.45,20(4),1665.0
+"236Johan VásquezCremonese, 24, D(CL)","Johan Vásquez Cremonese, 24, D(CL)",-,0.3,28.6,74.0,-,1.4,-,6.45,11(5),1076.0
+"237Igor JulioFiorentina, 25, D(C),M(L)","Igor Julio Fiorentina, 25, D(C),M(L)",-,0.1,47.6,87.7,-,3.8,-,6.44,17(4),1544.0
+"238Milan SkriniarInter, 28, D(C)","Milan Skriniar Inter, 28, D(C)",-,0.3,65.1,91.7,-,3.0,-,6.44,20(1),1770.0
+"239Emanuele ValeriCremonese, 24, M(L)","Emanuele Valeri Cremonese, 24, M(L)",2,1.4,21.3,61.1,1.1,1.3,-,6.44,24(3),2081.0
+"240Duván ZapataAtalanta, 32, FW","Duván Zapata Atalanta, 32, FW",1,0.7,14.9,70.6,0.1,0.3,-,6.44,11(7),898.0
+"241Nemanja RadonjicTorino, 27, M(CLR),FW","Nemanja Radonjic Torino, 27, M(CLR),FW",2,0.6,12.8,72.2,0.6,0.3,-,6.44,13(12),1229.0
+"242Andrea ConsigliSassuolo, 36, GK","Andrea Consigli Sassuolo, 36, GK",-,-,37.2,75.4,-,8.5,-,6.44,26,2340.0
+"243Bartosz BereszynskiSampdoria, 30, D(CLR),M(R)","Bartosz Bereszynski Sampdoria, 30, D(CLR),M(R)",-,0.2,31.8,75.5,0.2,1.3,-,6.43,15,1203.0
+"244Ante RebicAC Milan, 29, AM(CLR),FW","Ante Rebic AC Milan, 29, AM(CLR),FW",2,0.6,10.7,58.9,0.2,0.3,0.1,6.43,6(12),635.0
+"245Sofyan AmrabatFiorentina, 26, DMC","Sofyan Amrabat Fiorentina, 26, DMC",-,0.4,47.5,89.0,0.4,3.9,-,6.43,20(5),1688.0
+"246Petar StojanovicEmpoli, 27, D(R),M(R)","Petar Stojanovic Empoli, 27, D(R),M(R)",1,0.8,33.9,80.2,0.4,2.5,-,6.43,15(6),1379.0
+"247Joakim MaehleAtalanta, 25, D(LR),M(LR)","Joakim Maehle Atalanta, 25, D(LR),M(LR)",1,1,32.4,81.4,0.2,0.8,-,6.43,16(9),1416.0
+"248Dylan BronnSalernitana, 27, D(C)","Dylan Bronn Salernitana, 27, D(C)",-,0.3,41.9,85.4,0.1,2.6,-,6.43,16(4),1426.0
+"249Michele CastagnettiCremonese, 33, DMC","Michele Castagnetti Cremonese, 33, DMC",1,1.1,27.0,78.9,0.5,1.3,0.1,6.43,8(9),840.0
+"250Charles De KetelaereAC Milan, 22, M(CLR),FW","Charles De Ketelaere AC Milan, 22, M(CLR),FW",1,0.8,11.7,78.6,-,0.3,0.1,6.42,7(17),871.0
+"251Jeremy ToljanSassuolo, 28, D(LR),M(LR)","Jeremy Toljan Sassuolo, 28, D(LR),M(LR)",1,1.0,41.6,82.1,0.3,2.0,0.1,6.42,21(1),1949.0
+"252Mattia CaldaraSpezia, 28, D(C)","Mattia Caldara Spezia, 28, D(C)",-,0.1,30.6,77.3,-,1.6,-,6.42,13(6),1250.0
+"253Kingsley EhizibueUdinese, 27, D(R),M(R)","Kingsley Ehizibue Udinese, 27, D(R),M(R)",-,0.3,16.4,74.4,0.4,0.6,-,6.42,11(11),1139.0
+"254Adrien TamezeVerona, 29, M(C)","Adrien Tameze Verona, 29, M(C)",-,0.6,29.4,77.6,0.1,1.7,-,6.41,25(2),2194.0
+"255Martín SatrianoEmpoli, 22, FW","Martín Satriano Empoli, 22, FW",1,0.5,13.1,69.2,-,0.2,-,6.41,20(6),1637.0
+"256Antonín BarákFiorentina, 28, AM(CR)","Antonín Barák Fiorentina, 28, AM(CR)",-,0.7,23.3,83.2,0.1,1.0,-,6.4,15(8),1336.0
+"257Luca CaldirolaMonza, 32, D(CL)","Luca Caldirola Monza, 32, D(CL)",-,0.2,46.0,88.4,-,2.0,-,6.4,19(3),1661.0
+"258Jean-Victor MakengoUdinese, 24, M(CL)","Jean-Victor Makengo Udinese, 24, M(CL)",1,0.3,19.4,84.8,0.1,0.4,-,6.4,11(5),812.0
+"259Andrea ColpaniMonza, 23, Midfielder","Andrea Colpani Monza, 23, Midfielder",-,0.6,12.0,84.2,0.3,0.6,0.1,6.4,4(16),560.0
+"260Luka JovicFiorentina, 25, FW","Luka Jovic Fiorentina, 25, FW",-,0.6,9.1,74.9,-,0.4,-,6.4,13(11),1161.0
+"261Miguel VelosoVerona, 36, M(C)","Miguel Veloso Verona, 36, M(C)",-,1,24.9,77.7,1.1,1.9,0.1,6.39,11(7),974.0
+"262Luca ZanimacchiaCremonese, 24, AM(C)","Luca Zanimacchia Cremonese, 24, AM(C)",-,0.9,17.5,74.9,0.9,0.4,-,6.39,9(6),748.0
+"263Soualiho MeïtéCremonese, 29, M(C)","Soualiho Meïté Cremonese, 29, M(C)",1,0.4,28.5,83.6,0.1,1.0,-,6.39,18(3),1472.0
+"264Gian Marco FerrariSassuolo, 30, D(C)","Gian Marco Ferrari Sassuolo, 30, D(C)",-,-,39.6,85.7,-,3.3,-,6.39,20(4),1804.0
+"265Mërgim VojvodaTorino, 28, D(CR),M(LR)","Mërgim Vojvoda Torino, 28, D(CR),M(LR)",4,0.6,29.5,78.3,0.1,1.3,0.1,6.39,12(10),1182.0
+"266Giacomo RaspadoriNapoli, 23, AM(CL),FW","Giacomo Raspadori Napoli, 23, AM(CL),FW",-,0.5,17.8,78.6,0.2,0.7,-,6.39,7(9),590.0
+"267Mattia De SciglioJuventus, 30, D(CLR),M(LR)","Mattia De Sciglio Juventus, 30, D(CLR),M(LR)",-,0.5,27.8,81.8,0.4,1.6,-,6.39,10(6),1014.0
+"268Thomas HenryVerona, 28, FW","Thomas Henry Verona, 28, FW",-,0.8,13.5,53.2,-,0.3,0.1,6.38,13(3),1038.0
+"269Pedro ObiangSassuolo, 31, DMC","Pedro Obiang Sassuolo, 31, DMC",1,0.1,22.8,82.5,-,1.7,-,6.38,9(6),710.0
+"270Federico Di FrancescoLecce, 28, M(LR),FW","Federico Di Francesco Lecce, 28, M(LR),FW",2,0.7,13.1,73.9,0.1,0.3,-,6.37,17(10),1466.0
+"271Marlon SantosMonza, 27, D(C)","Marlon Santos Monza, 27, D(C)",-,0.1,40.5,92.2,0.2,1.3,-,6.37,16(4),1278.0
+"272Robin GosensInter, 28, D(L),M(CL)","Robin Gosens Inter, 28, D(L),M(CL)",-,0.4,14.8,78.3,0.3,0.5,-,6.36,6(18),709.0
+"273Divock OrigiAC Milan, 27, AM(LR),FW","Divock Origi AC Milan, 27, AM(LR),FW",1,0.5,6.0,70.8,-,0.2,-,6.35,6(14),705.0
+"274Daniele VerdeSpezia, 26, AM(CLR),FW","Daniele Verde Spezia, 26, AM(CLR),FW",-,0.8,14.2,74.0,0.8,0.7,-,6.35,9(8),736.0
+"275Samuele BirindelliMonza, 23, M(R)","Samuele Birindelli Monza, 23, M(R)",1,0.7,20.2,74.4,0.7,0.5,-,6.35,13(9),1089.0
+"276Dimitrios NikolaouSpezia, 24, D(C)","Dimitrios Nikolaou Spezia, 24, D(C)",-,0.3,47.9,82.7,0.1,3.1,-,6.35,25(1),2215.0
+"277Moise KeanJuventus, 23, AM(LR),FW","Moise Kean Juventus, 23, AM(LR),FW",-,0.3,6.4,73.2,-,-,-,6.35,10(14),867.0
+"278Kristian ThorstvedtSassuolo, 24, M(C)","Kristian Thorstvedt Sassuolo, 24, M(C)",1,0.4,16.8,77.4,-,0.4,-,6.34,12(12),1004.0
+"279Nedim BajramiEmpoli, 24, AM(C)","Nedim Bajrami Empoli, 24, AM(C)",1,0.8,16.1,80.0,0.4,0.5,-,6.34,8(11),931.0
+"280Cyriel DessersCremonese, 28, FW","Cyriel Dessers Cremonese, 28, FW",1,0.9,10.2,64.0,0.1,0.2,-,6.33,16(6),1358.0
+"281Albin EkdalSpezia, 33, M(C)","Albin Ekdal Spezia, 33, M(C)",2,0.2,22.5,78.4,-,0.7,-,6.33,10(11),1034.0
+"282Cristian BuonaiutoCremonese, 30, Midfielder","Cristian Buonaiuto Cremonese, 30, Midfielder",-,0.7,12.5,71.5,0.7,0.4,0.1,6.32,3(17),592.0
+"283José MachínMonza, 26, M(C)","José Machín Monza, 26, M(C)",1,0.4,33.5,84.4,0.2,1.2,0.1,6.32,10(7),941.0
+"284Junior SambiaSalernitana, 26, D(R),M(CR)","Junior Sambia Salernitana, 26, D(R),M(CR)",-,0.2,14.1,84.2,0.2,0.4,-,6.32,6(11),582.0
+"285Charles PickelCremonese, 25, M(C)","Charles Pickel Cremonese, 25, M(C)",-,0.5,29.5,77.7,-,0.9,-,6.31,24(2),1970.0
+"286Joaquín CorreaInter, 28, AM(CL),FW","Joaquín Correa Inter, 28, AM(CL),FW",1,0.3,7.3,77.5,-,0.3,0.1,6.31,5(14),500.0
+"287Enzo EbosseUdinese, 24, D(C)","Enzo Ebosse Udinese, 24, D(C)",-,0.1,24.1,84.4,0.1,1.9,-,6.31,9(11),919.0
+"288Tolgay ArslanUdinese, 32, M(C)","Tolgay Arslan Udinese, 32, M(C)",-,0.4,16.0,82.6,0.1,1.3,-,6.31,11(16),941.0
+"289Yayah KallonVerona, 21, AM(C)","Yayah Kallon Verona, 21, AM(C)",1,0.6,9.1,70.2,0.4,0.2,-,6.3,7(13),773.0
+"290Remi OudinLecce, 26, M(CLR),FW","Remi Oudin Lecce, 26, M(CLR),FW",-,0.5,10.4,67.4,0.5,0.8,-,6.3,2(19),486.0
+"291Lorenzo ColomboLecce, 21, FW","Lorenzo Colombo Lecce, 21, FW",2,0.6,11.0,65.6,0.1,0.2,-,6.29,14(11),1269.0
+"292Nicolas HaasEmpoli, 27, M(C)","Nicolas Haas Empoli, 27, M(C)",-,0.3,16.7,75.5,-,0.8,-,6.29,10(9),978.0
+"293Grigoris KastanosSalernitana, 25, AM(CR)","Grigoris Kastanos Salernitana, 25, AM(CR)",-,0.4,12.6,74.0,0.1,0.4,0.1,6.28,6(12),588.0
+"294Valerio VerreSampdoria, 29, AM(CL),FW","Valerio Verre Sampdoria, 29, AM(CL),FW",-,0.7,19.8,75.9,0.4,1.4,0.1,6.28,6(12),674.0
+"295Lameck BandaLecce, 22, AM(L)","Lameck Banda Lecce, 22, AM(L)",1,0.3,10.1,72.8,0.1,0.1,-,6.28,14(13),1226.0
+"296Giovanni SimeoneNapoli, 27, AM(R),FW","Giovanni Simeone Napoli, 27, AM(R),FW",-,0.2,4.3,68.8,-,0.1,-,6.28,1(17),291.0
+"297Domagoj BradaricSalernitana, 23, D(L),M(L)","Domagoj Bradaric Salernitana, 23, D(L),M(L)",2,0.7,25.9,79.2,0.5,1.0,-,6.27,17(6),1627.0
+"298Leandro ParedesJuventus, 28, DMC","Leandro Paredes Juventus, 28, DMC",-,0.5,23.5,91.8,0.4,1.9,0.1,6.26,5(12),591.0
+"299Federico BonazzoliSalernitana, 25, AM(C),FW","Federico Bonazzoli Salernitana, 25, AM(C),FW",1,0.3,14.8,75.3,-,1.0,-,6.26,12(11),1087.0
+"300Daniel CiofaniCremonese, 37, FW","Daniel Ciofani Cremonese, 37, FW",-,0.3,5.6,58.6,-,0.1,-,6.26,6(19),690.0
+"301Jeison MurilloSampdoria, 30, D(C)","Jeison Murillo Sampdoria, 30, D(C)",-,0.1,29.7,82.7,-,1.9,-,6.26,11(4),881.0
+"302Tanguy NdombéléNapoli, 26, M(C)","Tanguy Ndombélé Napoli, 26, M(C)",-,0.3,18.5,89.6,-,0.2,-,6.26,6(20),636.0
+"303Emmanuel GyasiSpezia, 29, M(LR),FW","Emmanuel Gyasi Spezia, 29, M(LR),FW",-,0.7,21.7,81.4,0.1,0.1,-,6.25,25,2038.0
+"304Alfred DuncanFiorentina, 30, DMC","Alfred Duncan Fiorentina, 30, DMC",-,0.3,18.4,79.0,0.4,0.9,0.1,6.25,7(9),614.0
+"305Jacopo FazziniEmpoli, 20, Midfielder","Jacopo Fazzini Empoli, 20, Midfielder",-,0.3,11.6,85.1,0.1,0.1,-,6.25,3(12),407.0
+"306Gregoire DefrelSassuolo, 31, AM(CR),FW","Gregoire Defrel Sassuolo, 31, AM(CR),FW",-,0.4,8.6,84.4,-,0.1,-,6.25,8(9),701.0
+"307Liam HendersonEmpoli, 26, AM(C)","Liam Henderson Empoli, 26, AM(C)",1,0.8,20.6,84.1,0.5,0.4,-,6.23,9(9),784.0
+"308Michel AebischerBologna, 26, M(CR)","Michel Aebischer Bologna, 26, M(CR)",-,0.5,18.2,83.9,0.2,0.8,-,6.22,12(12),1065.0
+"309Kristoffer AskildsenLecce, 22, M(C)","Kristoffer Askildsen Lecce, 22, M(C)",-,0.3,11.4,66.3,0.3,1.0,-,6.22,6(12),619.0
+"310Kevin LasagnaVerona, 30, AM(CL),FW","Kevin Lasagna Verona, 30, AM(CL),FW",2,0.7,9.2,63.7,0.1,0.1,-,6.21,14(9),1358.0
+"311Agustín Álvarez MartínezSassuolo, 21, Forward","Agustín Álvarez Martínez Sassuolo, 21, Forward",1,0.1,3.9,82.9,-,0.3,-,6.2,1(17),299.0
+"312Abdou HarrouiSassuolo, 25, DMC,M(R)","Abdou Harroui Sassuolo, 25, DMC,M(R)",-,0.1,9.5,82.1,0.1,0.1,-,6.2,2(15),344.0
+"313Toma BasicLazio, 26, M(C)","Toma Basic Lazio, 26, M(C)",-,0.3,12.6,78.7,0.1,0.1,0.1,6.19,4(15),433.0
+"314Ronaldo VieiraSampdoria, 24, DMC","Ronaldo Vieira Sampdoria, 24, DMC",-,-,27.1,87.8,-,1.2,-,6.18,8(8),815.0
+"315Erik BotheimSalernitana, 23, Forward","Erik Botheim Salernitana, 23, Forward",1,0.3,4.6,65.1,0.1,0.1,-,6.18,3(15),346.0
+"316Andrea BelottiRoma, 29, FW","Andrea Belotti Roma, 29, FW",-,0.3,6.2,69.2,-,0.2,-,6.16,4(19),632.0
+"317Francesco CaputoSampdoria, 35, FW","Francesco Caputo Sampdoria, 35, FW",-,0.6,15.4,71.9,-,0.3,-,6.16,13(2),1100.0
+"318Nicola MurruSampdoria, 28, D(L),M(L)","Nicola Murru Sampdoria, 28, D(L),M(L)",-,0.1,12.6,78.3,0.2,0.7,-,6.15,3(12),539.0
+"319Matteo CancellieriLazio, 21, Forward","Matteo Cancellieri Lazio, 21, Forward",-,0.2,4.3,76.6,0.1,-,-,6.14,1(17),226.0
+"320Christian GytkjærMonza, 32, FW","Christian Gytkjær Monza, 32, FW",-,0.2,5.1,67.7,-,0.1,-,6.12,3(16),503.0
+"321Gonzalo VillarSampdoria, 25, DMC","Gonzalo Villar Sampdoria, 25, DMC",-,-,24.9,84.2,0.1,0.9,-,6.08,8(7),695.0
+"322Fabio QuagliarellaSampdoria, 40, FW","Fabio Quagliarella Sampdoria, 40, FW",-,0.2,6.2,69.5,0.1,0.4,-,6.04,2(15),387.0
+"323Felix Afena-GyanCremonese, 20, Forward","Felix Afena-Gyan Cremonese, 20, Forward",-,0.2,8.6,78.1,-,0.2,-,6.04,5(11),603.0
